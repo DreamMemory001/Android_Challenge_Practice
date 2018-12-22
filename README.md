@@ -2,4 +2,4 @@
 
 These are daily practice (Android)
 
-.....update！！~~
+.....update！！~~~
